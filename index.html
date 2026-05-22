@@ -65,6 +65,7 @@
         </nav>
         <div class="header_actions">
           <button
+          
             aria-disabled="true"
             type="button"
             class="explore_bouquets_button header_button"
@@ -146,7 +147,7 @@
           >
             Top-Selling Bouquets
           </h2>
-          <ul class="bestsellers_list">
+          <ul class="bestsellers_list" id="catalogue_list">
             <li>
               <img
                 class="bouquet_image"
@@ -159,6 +160,8 @@
                 A delicate blend of peonies, tulips, and roses — perfect for
                 springtime gifting and bright smiles.
               </p>
+                <p class="bouquet_modal_description" style="display:none;">Each stem is carefully selected to create a bouquet that radiates freshness, elegance, and the gentle charm of spring. Whether you're celebrating a birthday, sending love, or simply brightening someone's day, this arrangement is sure to bring warm smiles and lasting impressions.</p>
+
               <p class="section_subtitle price">$35</p>
             </li>
             <li class="bestseller2">
@@ -173,6 +176,8 @@
                 A stylish composition of roses, seasonal greenery, and vibrant
                 berries — a bold and elegant floral statement.
               </p>
+                <p class="bouquet_modal_description" style="display:none;">Every bloom in this arrangement has been chosen for its depth of colour and texture, creating a composition that is as striking as it is sophisticated. Perfect for marking milestones, expressing admiration, or turning an ordinary moment into something truly memorable.</p>
+
               <p class="section_subtitle price">$40</p>
             </li>
             <li class="bestseller3">
@@ -187,7 +192,10 @@
                 A rich bouquet with lavender, lisianthus, and roses — ideal for
                 those who love deep hues and gentle fragrance.
               </p>
-              <p class="section_subtitle price">$55</p>
+                <p class="bouquet_modal_description" style="display:none;">Wrapped in soft hues of violet and cream, this bouquet carries a quiet elegance that lingers long after the first glance. Ideal for those who appreciate understated beauty — a heartfelt gift for someone who deserves something a little out of the ordinary.</p>
+
+                <p class="section_subtitle price">$55</p>
+
             </li>
           </ul>
           <div class="span_arrow_list">
@@ -631,6 +639,7 @@
         </ul>
       </nav>
       <button
+      id="order_button"
         aria-disabled="true"
         type="button"
         class="explore_bouquets_button burger_explore_bouquets_button"
@@ -638,45 +647,64 @@
         Explore Bouquets
       </button>
     </div>
+
     <div class="modal_background" id="detail_modal">
       <div class="modal_container detail_modal_container">
         <button
           type="button"
-          id="close_modal_button"
+          id="close_detail_modal_button"
           class="close_modal_button"
         >
           <svg><use href="./icons/burger_clouse.svg"></use></svg>
         </button>
-        <div class="detail_modal_content_wrapper">
+        <div class="detail_modal_content_wrapper modal_content_wrapper">
           <div id="detail_modal_content" class="detail_modal_content"></div>
-          <img
-            class="detail_modal_image"
-            src="./images/perfect-gift-wonderful-flowers@1x.png"
-            srcset="./images/perfect-gift-wonderful-flowers@2x.png 2x"
-            alt="spring bestseller bouquet"
-          />
-          <div class="detail_modal_texts_block">
-            <h3 class="detail_modal_title">Spring Elegance</h3>
-            <p class="detail_modal_text">
-              Each stem is carefully selected to create a bouquet that radiates
-              freshness, elegance, and the gentle charm of spring. Whether
-              you’re celebrating a birthday, sending love, or simply brightening
-              someone’s day, this arrangement is sure to bring warm smiles and
-              lasting impressions.
-            </p>
-            <p class="detail_modal_price">$35</p>
-            <button
-              aria-disabled="true"
-              type="button"
-              class="explore_bouquets_button explore_our_bouquets_button detail_modal_button"
-            >
-              Buy now
-            </button>
-          </div>
+
           </div>
         </div>
       </div>
     </div>
+    <div class="modal_background" id="order_modal">
+      <div class="modal_container order_modal_container"  style="position: relative;">
+        <button
+          type="button"
+          id="close_order_modal_button"
+          class="close_modal_button"
+        >
+          <svg><use href="./icons/burger_clouse.svg"></use></svg>
+        </button>
+        <div class="modal_content_wrapper"><form id="order_modal_form" class="order_modal_form">
+          <h2 class="order_modal_title">Order</h2>
+          <div class="order_modal_form_content"></div>
+          <div class="input_block">
+            <label for="name">Name*</label>
+            <input type="text" id="name" name="name" placeholder="Ann" required />
+          </div>
+
+          <div class="input_block">
+            <label for="phone">Phone*</label>
+            <input type="tel" id="phone" name="phone" placeholder="+1 (555) 123-4567" required />
+          </div>
+
+ <div class="input_block">
+   <label for="address">Address*</label>
+            <input type="text" id="address" name="address" placeholder="456 Floral Ave, Sydney NSW 2000 AU" required />
+ </div>
+
+          
+         
+          <div class="input_block">
+            <label for="phone">Message</label>
+            <textarea id="comment" name="comment" placeholder="Type your message..." rows="4"></textarea>
+          </div>
+
+          <button type="submit" class="explore_bouquets_button ">Go to Checkout</button>
+        </form>
+      </div>
+        </div>
+      </div>
+    </div>
     <script src="./js/mobile_menu.js"></script>
+    <script src="./js/modal.js"></script>
   </body>
 </html>
