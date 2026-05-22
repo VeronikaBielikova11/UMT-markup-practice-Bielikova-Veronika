@@ -1,0 +1,28 @@
+{
+  "name": "umt-markup-practice-bielikova-veronika",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "vite build",
+    "api": "json-server db/db.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeronikaBielikova11/UMT-markup-practice-Bielikova-Veronika.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeronikaBielikova11/UMT-markup-practice-Bielikova-Veronika/issues"
+  },
+  "homepage": "https://github.com/VeronikaBielikova11/UMT-markup-practice-Bielikova-Veronika#readme",
+  "dependencies": {
+    "axios": "^1.16.1",
+    "json-server": "^1.0.0-beta.15",
+    "vite": "^8.0.14"
+  }
+}

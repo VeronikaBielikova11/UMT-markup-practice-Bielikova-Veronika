@@ -5,11 +5,41 @@ html:has(body.menu-open) {
   overflow: hidden;
 }
 
+#notifications {
+  position: fixed;
+  inset:  16px 16px auto auto;
+  z-index: 10000;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  pointer-events: none;
+  max-width: min(360px,20vw);
+}
+
+.notification {
+  background-color: grey;
+  color:whitesmoke;
+  padding: 12px 16px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  pointer-events: auto;
+  border: 1px solid grey;
+  box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
+}
+.notification--error{
+  border-color: red;
+}
+
+
+
 body.modal-open,
 body.menu-open {
   height: 100vh;
   overflow: hidden;
 }
+
+
 .modal_content_wrapper {
   overflow-y: auto;
   margin: 0% auto;

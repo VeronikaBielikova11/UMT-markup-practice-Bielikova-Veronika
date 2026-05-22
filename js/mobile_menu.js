@@ -17,7 +17,6 @@ mobileMenuLinkRef.forEach((ref) => {
   ref.addEventListener('click', () => {
     menuBtnRef.setAttribute('aria-expanded', false);
     document.body.classList.remove('menu-open');
-
     menuBtnRef.classList.remove('is-open');
 
     mobileMenuRef.classList.remove('is-open');

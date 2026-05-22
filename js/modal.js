@@ -26,10 +26,10 @@ function closeModal(modal) {
 function fillDetailModalContent(li) {
   const img = li.querySelector('.bouquet_image');
   const title = li.querySelector('h3');
-const desc =
-  li.querySelector('.bouquet_modal_description') ||
-  li.querySelector('.bouquet_description') ||
-  li.querySelector('.bouquet_description_center_list');
+  const desc =
+    li.querySelector('.bouquet_modal_description') ||
+    li.querySelector('.bouquet_description') ||
+    li.querySelector('.bouquet_description_center_list');
   const price =
     li.querySelector('.price') ||
     li.querySelector('.price_bouquet_first_row') ||

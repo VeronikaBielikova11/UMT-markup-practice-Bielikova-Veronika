@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "./images/perfect-gift-wonderful-flowers@1x.png",
+      "title": "Spring Elegance",
+      "desc": "A delicate blend of peonies, tulips, and roses — perfect for springtime gifting and bright smiles.",
+      "price": "35"
+    },
+    {
+      "id": 2,
+      "img": "./images/bridal-arrangement-wedding-flowers@1x.png",
+      "title": "Berry Chic",
+      "desc": "A stylish composition of roses, seasonal greenery, and vibrant berries — a bold and elegant floral statement.",
+      "price": "40"
+    },
+    {
+      "id": 3,
+      "img": "./images/mixed-flower-bouquet-wooden-table@1x.png",
+      "title": "Lavender Dream",
+      "desc": "A rich bouquet with lavender, lisianthus, and roses — ideal for those who love deep hues and gentle fragrance.",
+      "price": "55"
+    },
+    {
+      "id": 4,
+      "img": "./images/side-view-rose-bouquet@1x.png",
+      "title": "Peach Meadow",
+      "desc": "A soft and radiant arrangement of peach and blush roses with lush greenery in a straw basket — light and natural.",
+      "price": "55"
+    },
+    {
+      "id": 5,
+      "img": "./images/florist-makes-beautiful-bouquet@1x.png",
+      "title": "Blush Romance",
+      "desc": "A premium bouquet of deep pink and ivory roses, complemented by silver eucalyptus — sophisticated and intimate.",
+      "price": "34"
+    },
+    {
+      "id": 6,
+      "img": "./images/big-basket-mixed-flowers@1x.png",
+      "title": "Pastel Garden",
+      "desc": "A pastel-toned mix of spray roses and greenery in a woven basket — gentle, airy, and perfect for any occasion.",
+      "price": "40"
+    },
+    {
+      "id": 7,
+      "img": "./images/mixed-flower-composition-side-view@1x.png",
+      "title": "Tulip Charm",
+      "desc": "A vivid bouquet of bright tulips and roses in a lavender box — cheerful and full of charm.",
+      "price": "61"
+    },
+    {
+      "id": 8,
+      "img": "./images/exotic-rustic-bunch-flowers@1x.png",
+      "title": "Berry Bloom",
+      "desc": "A lush mix of rich pink, purple, and cream blooms with textured greens — romantic and elegant.",
+      "price": "32"
+    },
+    {
+      "id": 9,
+      "img": "./images/basket-filled@1x.png",
+      "title": "Sweet Whisper",
+      "desc": "A charming spring bouquet with peonies, roses, and lilac-toned accents — fresh, lively, and expressive.",
+      "price": "40"
+    },
+    {
+      "id": 10,
+      "img": "./images/wild-flowers@1x.png",
+      "title": "Field Joy",
+      "desc": "A rustic hand-tied bouquet of sunflowers, lisianthus, and daisies — perfect for brightening the day.",
+      "price": "49"
+    },
+    {
+      "id": 11,
+      "img": "./images/close-up-bouquet@1x.png",
+      "title": "Soft Bloom",
+      "desc": "A delicate bouquet of pink carnations and roses wrapped in satin paper — soft, stylish, and versatile.",
+      "price": "37"
+    }
+  ],
+
+  "feedbacks": [
+    {
+      "id": 1,
+      "text": "Flora made my anniversary unforgettable. The bouquet was fresh, beautifully arranged, and arrived exactly on time. Will definitely order again.",
+      "author": "Emma Thompson"
+    },
+    {
+      "id": 2,
+      "text": "I ordered a bouquet for my mother's birthday and she was in tears — the good kind. Stunning arrangement and lovely packaging.",
+      "author": "Daniel Roberts"
+    },
+    {
+      "id": 3,
+      "text": "The flowers lasted over two weeks, which never happens with other shops. Incredible quality and such a thoughtful selection.",
+      "author": "Olivia Martinez"
+    },
+    {
+      "id": 4,
+      "text": "Fast delivery, perfect condition, and the blooms smelled absolutely wonderful. Flora is my go-to for every special occasion.",
+      "author": "James Wilson"
+    },
+    {
+      "id": 5,
+      "text": "Ordered the Spring Elegance bouquet and it exceeded every expectation. The peonies were enormous and so fresh.",
+      "author": "Sophie Clarke"
+    },
+    {
+      "id": 6,
+      "text": "Beautiful flowers and genuinely helpful staff. They suggested the perfect arrangement for a sympathy gift — tasteful and heartfelt.",
+      "author": "Michael Bennett"
+    },
+    {
+      "id": 7,
+      "text": "I've tried many flower shops in the city but Flora stands apart. The arrangements feel artistic, not just assembled.",
+      "author": "Charlotte Evans"
+    },
+    {
+      "id": 8,
+      "text": "Proposed with a Flora bouquet and she said yes. Partly thanks to those roses, I'm sure of it.",
+      "author": "Noah Harris"
+    },
+    {
+      "id": 9,
+      "text": "Ordered for a colleague's farewell and the whole office was impressed. Generous size, vibrant colours, and a lovely ribbon.",
+      "author": "Amelia Scott"
+    },
+    {
+      "id": 10,
+      "text": "The lavender bouquet I received as a gift from Flora is still brightening my desk a week later. Exceptional freshness.",
+      "author": "Liam Johnson"
+    }
+  ]
+}
