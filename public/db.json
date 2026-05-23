@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "./images/basket-filled@1x.png",
+      "title": "Spring Elegance",
+      "desc": "A delicate blend of peonies, tulips, and roses — perfect for springtime gifting and bright smiles.",
+      "price": "35"
+    },
+    {
+      "id": 2,
+      "img": "./images/big-basket-mixed-flowers@1x.png",
+      "title": "Berry Chic",
+      "desc": "A stylish composition of roses, seasonal greenery, and vibrant berries",
+      "price": "40"
+    },
+    {
+      "id": 3,
+      "img": "./images/close-up-bouquet@1x.png",
+      "title": "Lavender Dream",
+      "desc": "A rich bouquet with lavender, lisianthus, and roses — ideal for those who love deep hues.",
+      "price": "55"
+    },
+    {
+      "id": 4,
+      "img": "./images/exotic-rustic-bunch-flowers@1x.png",
+      "title": "Peach Meadow",
+      "desc": "A soft and radiant arrangement of peach and blush roses with lush greenery.",
+      "price": "55"
+    },
+    {
+      "id": 5,
+      "img": "./images/basket-filled@1x.png",
+      "title": "Blush Romance",
+      "desc": "A premium bouquet of deep pink and ivory roses, complemented by silver eucalyptus — sophisticated and intimate.",
+      "price": "34"
+    },
+    {
+      "id": 6,
+      "img": "./images/mixed-flower-composition-side-view@1x.png",
+      "title": "Pastel Garden",
+      "desc": "A pastel-toned mix of spray roses and greenery in a woven basket — gentle, airy, and perfect for any occasion.",
+      "price": "40"
+    },
+    {
+      "id": 7,
+      "img": "./images/wild-flowers@1x.png",
+      "title": "Tulip Charm",
+      "desc": "A vivid bouquet of bright tulips and roses in a lavender box — cheerful and full of charm for the day.",
+      "price": "61"
+    },
+    {
+      "id": 8,
+      "img": "./images/basket-filled@1x.png",
+      "title": "Berry Bloom",
+      "desc": "A lush mix of rich pink, purple, and cream blooms with textured greens — romantic and elegant.",
+      "price": "32"
+    },
+    {
+      "id": 9,
+      "img": "./images/big-basket-mixed-flowers@1x.png",
+      "title": "Sweet Whisper",
+      "desc": "A charming spring bouquet with peonies, roses, and lilac-toned accents — fresh, lively, and expressive.",
+      "price": "40"
+    },
+    {
+      "id": 10,
+      "img": "./images/close-up-bouquet@1x.png",
+      "title": "Field Joy",
+      "desc": "A rustic hand-tied bouquet of sunflowers, lisianthus, and daisies — perfect for brightening the day.",
+      "price": "49"
+    },
+    {
+      "id": 11,
+      "img": "./images/exotic-rustic-bunch-flowers@1x.png",
+      "title": "Soft Bloom",
+      "desc": "A delicate bouquet of pink carnations and roses wrapped in satin paper — soft, stylish, and versatile.",
+      "price": "37"
+    },
+    {
+      "id": 12,
+      "img": "./images/basket-filled@1x.png",
+      "title": "Pure Grace",
+      "desc": "An elegant all-white arrangement of roses and freesia — timeless, refined, and perfect for formal occasions.",
+      "price": "48"
+    },
+    {
+      "id": 13,
+      "img": "./images/mixed-flower-composition-side-view@1x.png",
+      "title": "Golden Hour",
+      "desc": "A cheerful bundle of sunflowers and wheat stalks wrapped in kraft paper — warm, rustic, and full of joy.",
+      "price": "33"
+    },
+    {
+      "id": 14,
+      "img": "./images/big-basket-mixed-flowers@1x.png",
+      "title": "Orchid Luxe",
+      "desc": "A sophisticated arrangement of white and purple orchids in a sleek vase — exotic, luxurious.",
+      "price": "72"
+    },
+    {
+      "id": 15,
+      "img": "./images/basket-filled@1x.png",
+      "title": "Crimson Love",
+      "desc": "A classic dozen red roses wrapped in black satin ribbon — bold, passionate, and timelessly romantic.",
+      "price": "58"
+    },
+    {
+      "id": 16,
+      "img": "./images/wild-flowers@1x.png",
+      "title": "Meadow Magic",
+      "desc": "A free-spirited wildflower mix of cornflowers, chamomile, and poppies — natural beauty straight.",
+      "price": "42"
+    },
+    {
+      "id": 17,
+      "img": "./images/wild-flowers@1x.png",
+      "title": "Lilac Haze",
+      "desc": "A lush arrangement of lilac hydrangeas and wax flower — soft, voluminous, and dreamily fragrant.",
+      "price": "53"
+    },
+    {
+      "id": 18,
+      "img": "./images/mixed-flower-composition-side-view@1x.png",
+      "title": "Tropical Bliss",
+      "desc": "An exotic mix of bird-of-paradise, anthuriums, and tropical leaves — vibrant and statement-making.",
+      "price": "79"
+    },
+    {
+      "id": 19,
+      "img": "./images/big-basket-mixed-flowers@1x.png",
+      "title": "Peony Luxe",
+      "desc": "A premium hat-box arrangement of blush and coral peonies — indulgent, fragrant, and utterly romantic.",
+      "price": "65"
+    },
+    {
+      "id": 20,
+      "img": "./images/exotic-rustic-bunch-flowers@1x.png",
+      "title": "Morning Fresh",
+      "desc": "A light and breezy bouquet of daisies, chamomile, and baby's breath — simple, cheerful.",
+      "price": "28"
+    },
+    {
+      "id": 21,
+      "img": "./images/close-up-bouquet@1x.png",
+      "title": "Amber Harvest",
+      "desc": "A warm autumn arrangement of chrysanthemums, hypericum berries, and copper foliage — rich, cozy.",
+      "price": "46"
+    },
+    {
+      "id": 22,
+      "img": "./images/mixed-flower-composition-side-view@1x.png",
+      "title": "Zen Single",
+      "desc": "A mindful single-stem presentation of a premium calla lily with sculptural foliage — minimal, modern.",
+      "price": "25"
+    },
+    {
+      "id": 23,
+      "img": "./images/big-basket-mixed-flowers@1x.png",
+      "title": "Garden Reverie",
+      "desc": "A vintage-style box filled with garden roses, astrantia, and dusty miller — romantic, textured baby's breath .",
+      "price": "68"
+    },
+    {
+      "id": 24,
+      "img": "./images/basket-filled@1x.png",
+      "title": "Grand Bouquet",
+      "desc": "A generous mixed seasonal arrangement of 40+ stems including roses, peonies, and lisianthus.",
+      "price": "95"
+    }
+  ],
+
+  "bestsellers": [
+    {
+      "id": 1,
+      "img": "./images/perfect-gift-wonderful-flowers@1x.png",
+      "title": "Spring Elegance",
+      "text": "A delicate blend of peonies, tulips, and roses — perfect for springtime gifting and bright smiles.",
+      "price": "35"
+    },
+    {
+      "id": 2,
+      "img": "./images/bridal-arrangement-wedding-flowers@1x.png",
+      "title": "Berry Chic",
+      "text": "A stylish composition of roses, seasonal greenery, and vibrant berries — a bold and elegant statement.",
+      "price": "40"
+    },
+    {
+      "id": 3,
+      "img": "./images/mixed-flower-bouquet-wooden-table@1x.png",
+      "title": "Lavender Dream",
+      "text": "A rich bouquet with lavender, lisianthus, and roses — ideal a woven basket.",
+      "price": "55"
+    },
+    {
+      "id": 4,
+      "img": "./images/perfect-gift-wonderful-flowers@1x.png",
+      "title": "Peach Meadow",
+      "text": "A soft and radiant arrangement of peach and blush roses with lush greenery in a straw basket.",
+      "price": "55"
+    },
+    {
+      "id": 5,
+      "img": "./images/bridal-arrangement-wedding-flowers@1x.png",
+      "title": "Blush Romance",
+      "text": "A premium bouquet of deep pink and ivory roses, complemented by silver eucalyptus.",
+      "price": "34"
+    },
+    {
+      "id": 6,
+      "img": "./images/mixed-flower-bouquet-wooden-table@1x.png",
+      "title": "Pastel Garden",
+      "text": "A pastel-toned mix of spray roses and greenery in a woven basket.",
+      "price": "40"
+    },
+    {
+      "id": 7,
+      "img": "./images/perfect-gift-wonderful-flowers@1x.png",
+      "title": "Tulip Charm",
+      "text": "A vivid bouquet of bright tulips and roses in a lavender box — cheerful and full of charm.",
+      "price": "61"
+    },
+    {
+      "id": 8,
+      "img": "./images/bridal-arrangement-wedding-flowers@1x.png",
+      "title": "Berry Bloom",
+      "text": "A lush mix of rich pink, purple, and cream blooms with textured greens — romantic and elegant.",
+      "price": "32"
+    }
+  ],
+
+  "feedbacks": [
+    {
+      "id": 1,
+      "text": "Flora made my anniversary unforgettable. The bouquet was fresh, beautifully arranged, and arrived exactly on time. Will definitely order again.",
+      "author": "Emma Thompson"
+    },
+    {
+      "id": 2,
+      "text": "I ordered a bouquet for my mother's birthday and she was in tears — the good kind. Stunning arrangement and lovely packaging.",
+      "author": "Daniel Roberts"
+    },
+    {
+      "id": 3,
+      "text": "The flowers lasted over two weeks, which never happens with other shops. Incredible quality and such a thoughtful selection.",
+      "author": "Olivia Martinez"
+    },
+    {
+      "id": 4,
+      "text": "Fast delivery, perfect condition, and the blooms smelled absolutely wonderful. Flora is my go-to for every special occasion.",
+      "author": "James Wilson"
+    },
+    {
+      "id": 5,
+      "text": "Ordered the Spring Elegance bouquet and it exceeded every expectation. The peonies were enormous and so fresh.",
+      "author": "Sophie Clarke"
+    },
+    {
+      "id": 6,
+      "text": "Beautiful flowers and genuinely helpful staff. They suggested the perfect arrangement for a sympathy gift — tasteful and heartfelt.",
+      "author": "Michael Bennett"
+    },
+    {
+      "id": 7,
+      "text": "I've tried many flower shops in the city but Flora stands apart. The arrangements feel artistic, not just assembled.",
+      "author": "Charlotte Evans"
+    },
+    {
+      "id": 8,
+      "text": "Proposed with a Flora bouquet and she said yes. Partly thanks to those roses, I'm sure of it.",
+      "author": "Noah Harris"
+    }
+  ]
+}
